@@ -1,6 +1,5 @@
 # 🧩Image Recreation Using Evolutionary Algorithms
 
-## Project Overview
 In this project, we explore the fascinating intersection of computer science and digital art by recreating images through the use of **evolutionary algorithms**. By mimicking natural selection, our system evolves a population of images over generations to closely resemble a target image. This innovative approach highlights the power of evolutionary computing in generating visually compelling results.
 
 ![Mona Lisa Evolution](mona_lisa.gif)
