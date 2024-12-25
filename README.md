@@ -60,9 +60,3 @@ The project evolves from an abstract initial population to increasingly detailed
 - **Balancing Exploration and Exploitation**: Adjusting mutation rates and the maximum number of polygons to ensure that the algorithm explores enough solutions while honing in on promising areas.
 - **Performance**: Fine-tuning the tournament size and blending coefficients to avoid premature convergence and maintain diversity.
 - **Evaluation Efficiency**: Optimizing the fitness evaluation for large image sizes to keep computation times reasonable.
-
-## Future Enhancements
-- **Parallel Processing**: Speed up the evolutionary process by running evaluations and variations in parallel.
-- **Interactive GUI**: Create a user interface for real-time visualization and parameter adjustment.
-- **Multi-Objective Optimization**: Incorporate additional fitness metrics such as edge detection and texture similarity for more sophisticated recreations.
-- **Dynamic Polygon Counts**: Adjust the number of polygons based on the generation's performance to adaptively fine-tune complexity.
